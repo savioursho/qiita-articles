@@ -4,7 +4,7 @@ tags:
   - Python
   - Click
 private: false
-updated_at: '2024-07-14T18:46:45+09:00'
+updated_at: '2024-07-14T18:47:41+09:00'
 id: 498cf412860fe2de5a3c
 organization_url_name: null
 slide: false
