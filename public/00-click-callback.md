@@ -1,5 +1,5 @@
 ---
-title: 【Python】Clickのパラメータにでコールバックを設定する
+title: 【Python】Clickのパラメータにコールバックを設定する
 tags:
   - Python
   - Click
