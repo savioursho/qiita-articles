@@ -1,0 +1,22 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "argparse",
+        "autoenv",
+        "COMMANDLINE",
+        "contextlib",
+        "getcwd",
+        "isoformat",
+        "issubclass",
+        "metavar",
+        "nargs",
+        "pprint",
+        "qiita",
+        "strptime"
+    ],
+    "ignoreWords": [],
+    "import": []
+}

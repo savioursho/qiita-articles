@@ -1,0 +1,16 @@
+{
+    "name": "qiita-cli",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "workspaceFolder": "/workspaces/qiita-articles/",
+    "shutdownAction": "stopContainer",
+    "forwardPorts": [
+        8888
+    ],
+    "remoteUser": "vscode",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "latest"
+        }
+    },
+    "postCreateCommand": "/bin/sh .devcontainer/postCreateCommand.sh"
+}
